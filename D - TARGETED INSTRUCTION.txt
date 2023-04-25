@@ -1,0 +1,11 @@
+<DOCTYPE! html>
+ <html>
+
+  <head><title> W2 | HYPERLINKS | TARGETED INSTRUCTIONS </title></head>
+ 
+ <a href="family_pic.jpg"> My Family </a>
+ 
+
+
+</html>
+ 
